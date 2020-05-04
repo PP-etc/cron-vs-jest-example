@@ -1,0 +1,17 @@
+{
+  "name": "cron-vs-jest-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "jest": "^26.0.0",
+    "sinon": "^9.0.2"
+  }
+}
